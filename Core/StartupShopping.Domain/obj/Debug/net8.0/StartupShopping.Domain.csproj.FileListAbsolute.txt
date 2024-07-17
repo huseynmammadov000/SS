@@ -1,0 +1,13 @@
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\bin\Debug\net8.0\StartupShopping.Domain.deps.json
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\bin\Debug\net8.0\StartupShopping.Domain.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\bin\Debug\net8.0\StartupShopping.Domain.pdb
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.AssemblyInfo.cs
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.sourcelink.json
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\refint\StartupShopping.Domain.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\StartupShopping.Domain.pdb
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Domain\obj\Debug\net8.0\ref\StartupShopping.Domain.dll

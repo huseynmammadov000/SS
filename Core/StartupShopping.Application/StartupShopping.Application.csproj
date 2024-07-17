@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.GuardClauses" Version="4.6.0" />
+    <PackageReference Include="Ensure.That" Version="10.1.0" />
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="MediatR" Version="11.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.5" />
+  </ItemGroup>
+	<!--<ItemGroup>
+		<PackageReference Include="MediatR" Version="12.0.0" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+	</ItemGroup>-->
+  <ItemGroup>
+    <ProjectReference Include="..\StartupShopping.Domain\StartupShopping.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Commands\Category\" />
+    <Folder Include="Features\Commands\Company\" />
+    <Folder Include="Features\Commands\Startup\" />
+    <Folder Include="Features\Commands\Radar\" />
+    <Folder Include="Features\Commands\Role\" />
+    <Folder Include="Features\Commands\Portfolio\" />
+    <Folder Include="Features\Queries\Company\" />
+    <Folder Include="Features\Queries\Category\" />
+    <Folder Include="Features\Queries\AppUser\" />
+    <Folder Include="Features\Queries\Role\" />
+    <Folder Include="Features\Queries\Radar\" />
+    <Folder Include="Features\Queries\Portfolio\" />
+  </ItemGroup>
+
+</Project>

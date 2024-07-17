@@ -1,0 +1,1367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\refreshtokenrepository\\refreshtokenreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\refreshtokenrepository\\refreshtokenreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\abstractions\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\abstractions\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.infrastructure\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|solutionrelative:infrastructure\\startupshopping.infrastructure\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|solutionrelative:infrastructure\\startupshopping.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.infrastructure\\startupshopping.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C5166C2-4692-4F01-931E-7E52A1571F95}|Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj|solutionrelative:infrastructure\\startupshopping.infrastructure\\startupshopping.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\startupshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\startupshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\startupshopping.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\startupshopping.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\extensions\\addjwtauthextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\extensions\\addjwtauthextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\cookiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\cookiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\startuprepository\\startupreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\startuprepository\\startupreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\repositories\\refreshtokenrepository\\irefreshtokenreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\repositories\\refreshtokenrepository\\irefreshtokenreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\repositories\\refreshtokenrepository\\irefreshtokenwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\repositories\\refreshtokenrepository\\irefreshtokenwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\models\\cookieconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\models\\cookieconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\contexts\\startupshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\contexts\\startupshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\middlewares\\sessionvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\middlewares\\sessionvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\migrations\\startupshoppingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\migrations\\startupshoppingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\appuserrepository\\appuserreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\appuserrepository\\appuserreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\startuprepository\\startupwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\startuprepository\\startupwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\appuserrepository\\appuserwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\appuserrepository\\appuserwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\refreshtokenrepository\\refreshtokenwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\refreshtokenrepository\\refreshtokenwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\models\\refreshtokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\models\\refreshtokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\startupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\startupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\abstractions\\identity\\isigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\abstractions\\identity\\isigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\abstractions\\token\u0026password\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\abstractions\\token\u0026password\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\sessionrepository\\sessionwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\sessionrepository\\sessionwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\sessionrepository\\sessionreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\sessionrepository\\sessionreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\repositories\\sessionrepository\\isessionreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\repositories\\sessionrepository\\isessionreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\radarrepository\\radarreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\radarrepository\\radarreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\createcommanduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\createcommanduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\cookie\\cookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\cookie\\cookies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\signoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\signoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\signinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\signinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\migrations\\20240711032719_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\migrations\\20240711032719_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\models\\refreshtokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\models\\refreshtokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\signin\\signincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\commands\\appuser\\newtoken\\newtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\dto\u0027s\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\dto\u0027s\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\queries\\startup\\getallstartup\\getallstartupqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\queries\\startup\\getallstartup\\getallstartupqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\features\\queries\\startup\\getallstartup\\getallstartupqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\features\\queries\\startup\\getallstartup\\getallstartupqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\repositories\\radarrepository\\radarwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\repositories\\radarrepository\\radarwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.application\\repositories\\appuserrepository\\iappuserreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AD177E-F904-4AD6-A3A3-0E3B674CC670}|Core\\StartupShopping.Application\\StartupShopping.Application.csproj|solutionrelative:core\\startupshopping.application\\repositories\\appuserrepository\\iappuserreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\jwt\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\core\\startupshopping.domain\\entities\\radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961108F4-FEA8-4F51-994C-03EA05770AAE}|Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj|solutionrelative:core\\startupshopping.domain\\entities\\radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\presentation\\startupshoppingapi\\startupshoppingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1085B068-E930-4960-A542-09F56E8B902D}|Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj|solutionrelative:presentation\\startupshoppingapi\\startupshoppingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|c:\\users\\memme\\source\\repos\\startupshoppingapp\\infrastructure\\startupshopping.persistance\\migrations\\20240711024446_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7821B6-85BB-47E1-83FA-7A367637445D}|Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj|solutionrelative:infrastructure\\startupshopping.persistance\\migrations\\20240711024446_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Abstractions\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Abstractions\\Auth\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:20:41.897Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\PagedResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\PagedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:38:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartupShoppingAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\StartupShoppingAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T13:32:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartupShopping.Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\StartupShopping.Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T03:30:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddJwtAuthExtension.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Extensions\\AddJwtAuthExtension.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\Extensions\\AddJwtAuthExtension.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Extensions\\AddJwtAuthExtension.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\Extensions\\AddJwtAuthExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:11:27.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\ApiResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:40:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:46:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwBsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartupShopping.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Infrastructure\\StartupShopping.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T13:32:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:33:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Infrastructure\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Infrastructure\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Infrastructure\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:33:37.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CookieDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\CookieDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\CookieDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\CookieDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\CookieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:15:42.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartupReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:21:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRefreshTokenReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenReadRepository.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:20:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRefreshTokenWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenWriteRepository.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Repositories\\RefreshTokenRepository\\IRefreshTokenWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:41:04.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Program.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:45:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:17:27.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:43.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Enum\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Enum\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Enum\\RoleEnum.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Enum\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CookieConfig.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\CookieConfig.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Models\\CookieConfig.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\CookieConfig.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Models\\CookieConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:19:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Startup.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Startup.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Startup.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StartupShoppingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Contexts\\StartupShoppingDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Contexts\\StartupShoppingDbContext.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Contexts\\StartupShoppingDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Contexts\\StartupShoppingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:30:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Middlewares\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Middlewares\\MiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:34:19.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Middlewares\\SessionValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Middlewares\\SessionValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Middlewares\\SessionValidationMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Middlewares\\SessionValidationMiddleware.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAhwDMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:31:04.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StartupShoppingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\StartupShoppingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Migrations\\StartupShoppingDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\StartupShoppingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Migrations\\StartupShoppingDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:20:06.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppUserReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserReadRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:17:27.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StartupWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\StartupRepository\\StartupWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:19:55.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:14:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppUserController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Controllers\\AppUserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\Controllers\\AppUserController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Controllers\\AppUserController.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\Controllers\\AppUserController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwF0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:17:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppUserWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\AppUserRepository\\AppUserWriteRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:21:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\DI.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\DI.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\DI.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\DI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:32:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:21:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RefreshTokenWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RefreshTokenRepository\\RefreshTokenWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:41:01.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NewTokenCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandHandler.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandHandler.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:38.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SignInCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandHandler.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandHandler.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvyMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:09:29.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RefreshTokenValidation.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenValidation.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenValidation.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenValidation.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:42:25.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:24:04.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StartupDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\StartupDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\StartupDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\StartupDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\StartupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:14:14.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISignInManager.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Identity\\ISignInManager.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Abstractions\\Identity\\ISignInManager.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Identity\\ISignInManager.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Abstractions\\Identity\\ISignInManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T01:01:04.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Token\u0026Password\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Abstractions\\Token\u0026Password\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Abstractions\\Token\u0026Password\\ITokenService.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Abstractions\\Token\u0026Password\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:13:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SessionWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:28:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\Session.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:53:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SessionReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\SessionRepository\\SessionReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:29:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISessionReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\SessionRepository\\ISessionReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Repositories\\SessionRepository\\ISessionReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\SessionRepository\\ISessionReadRepository.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Repositories\\SessionRepository\\ISessionReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:25:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:36.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\Token.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:28:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SessionDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\SessionDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SessionDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\SessionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:28:50.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RadarReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:14:32.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SignInDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:45:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\TokenDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\TokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:41:05.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateCommandUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\CreateCommandUserRequestDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\CreateCommandUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\CreateCommandUserRequestDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\CreateCommandUserRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:13:00.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cookies.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Cookie\\Cookies.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\Cookie\\Cookies.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\Cookie\\Cookies.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\Cookie\\Cookies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:15:07.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SignOutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\SignOutRequest.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\SignOutRequest.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\SignOutRequest.cs",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\SignOutRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:14:26.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\appsettings.json",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T01:56:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SignInRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequestDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequestDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequestDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:37:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240711032719_mig_2.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711032719_mig_2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711032719_mig_2.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711032719_mig_2.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711032719_mig_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:27:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:17:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SignInRequest.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequest.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequest.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\SignInRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:37:40.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:24:03.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NewTokenCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandRequest.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandRequest.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:14.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RefreshTokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenOptions.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenOptions.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenOptions.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Models\\RefreshTokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:30:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\LoginDto.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:15:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SignInCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:11:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SignInCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandRequest.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandRequest.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\SignIn\\SignInCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:09:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "NewTokenCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Commands\\AppUser\\NewToken\\NewTokenCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\DTO\u0027s\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\DTO\u0027s\\TokenModel.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\DTO\u0027s\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:55:47.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GetAllStartupQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryResponse.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryResponse.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T01:39:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetAllStartupQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryHandler.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryHandler.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Features\\Queries\\Startup\\GetAllStartup\\GetAllStartupQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:17:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RadarWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarWriteRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Repositories\\RadarRepository\\RadarWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:41:51.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IAppUserReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\AppUserRepository\\IAppUserReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Application\\Repositories\\AppUserRepository\\IAppUserReadRepository.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Application\\Repositories\\AppUserRepository\\IAppUserReadRepository.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Application\\Repositories\\AppUserRepository\\IAppUserReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:28:49.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:26:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AppUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\AppUserRole.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\AppUserRole.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\AppUserRole.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\AppUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:38.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Jwt\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Jwt\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Jwt\\JwtSettings.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Jwt\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:44.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Portfolio.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:37.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Radar.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Radar.cs",
+              "RelativeDocumentMoniker": "Core\\StartupShopping.Domain\\Entities\\Radar.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\Entities\\Radar.cs",
+              "RelativeToolTip": "Core\\StartupShopping.Domain\\Entities\\Radar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:13:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "StartupShoppingAPI.http",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\StartupShoppingAPI.http",
+              "RelativeDocumentMoniker": "Presentation\\StartupShoppingAPI\\StartupShoppingAPI.http",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Presentation\\StartupShoppingAPI\\StartupShoppingAPI.http",
+              "RelativeToolTip": "Presentation\\StartupShoppingAPI\\StartupShoppingAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-05T16:13:31.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240711024446_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024446_mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024446_mig_1.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024446_mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024446_mig_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:44:46.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240711024128_mig_2.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs",
+              "RelativeToolTip": "Infrastructure\\StartupShopping.Persistance\\Migrations\\20240711024128_mig_2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:41:28.281Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

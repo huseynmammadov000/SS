@@ -1,0 +1,16 @@
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\bin\Debug\net8.0\StartupShopping.Application.deps.json
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\bin\Debug\net8.0\StartupShopping.Application.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\bin\Debug\net8.0\StartupShopping.Application.pdb
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\bin\Debug\net8.0\StartupShopping.Domain.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\bin\Debug\net8.0\StartupShopping.Domain.pdb
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.AssemblyInfo.cs
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.sourcelink.json
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupS.C61C3479.Up2Date
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\refint\StartupShopping.Application.dll
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\StartupShopping.Application.pdb
+C:\Users\memme\source\repos\StartupShoppingApp\Core\StartupShopping.Application\obj\Debug\net8.0\ref\StartupShopping.Application.dll

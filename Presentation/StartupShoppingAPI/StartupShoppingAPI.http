@@ -1,0 +1,6 @@
+@StartupShoppingAPI_HostAddress = http://localhost:5049
+
+GET {{StartupShoppingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzES4H/xsKs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\memme\\source\\repos\\StartupShoppingApp\\Core\\StartupShopping.Domain\\StartupShopping.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\memme\\.nuget\\packages\\ardalis.guardclauses\\4.6.0\\ardalis.guardclauses.4.6.0.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\ensure.that\\10.1.0\\ensure.that.10.1.0.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\memme\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

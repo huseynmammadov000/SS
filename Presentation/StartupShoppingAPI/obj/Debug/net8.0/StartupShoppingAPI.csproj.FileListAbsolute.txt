@@ -1,0 +1,7 @@
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.AssemblyInfo.cs
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\memme\source\repos\StartupShoppingApp\Presentation\StartupShoppingAPI\obj\Debug\net8.0\StartupShoppingAPI.sourcelink.json

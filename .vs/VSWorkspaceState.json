@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\StartupShopping.Application",
+    "\\Core\\StartupShopping.Application\\DTO\u0027s",
+    "\\Infrastructure",
+    "\\Infrastructure\\StartupShopping.Infrastructure",
+    "\\Infrastructure\\StartupShopping.Infrastructure\\Services",
+    "\\Infrastructure\\StartupShopping.Infrastructure\\Services\\Auth",
+    "\\Presentation",
+    "\\Presentation\\StartupShoppingAPI",
+    "\\Presentation\\StartupShoppingAPI\\Controllers"
+  ],
+  "SelectedNode": "\\StartupShoppingApp.sln",
+  "PreviewInSolutionExplorer": false
+}
